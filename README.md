@@ -76,9 +76,9 @@ AI Transformation Architect leading enterprise AI tooling adoption across the so
 | Project | What it is |
 | --- | --- |
 
-| [**kie-ai-skill**](https://github.com/jon-xo/kie-ai-skill) | Unified API access to multiple AI models via kie.ai |
+| [**kie-ai-skill**](https://github.com/newtosh/kie-ai-skill) | Unified API access to multiple AI models via kie.ai |
 
-| [**testflight-monitor-skill**](https://github.com/jon-xo/testflight-monitor-skill) | Monitor TestFlight beta availability with smart lookups |
+| [**testflight-monitor-skill**](https://github.com/newtosh/testflight-monitor-skill) | Monitor TestFlight beta availability with smart lookups |
 
 
 ---
